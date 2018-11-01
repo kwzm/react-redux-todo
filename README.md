@@ -12,8 +12,8 @@ A simple todo application use react and redux.
 ## Quick Start
 ### develop
 ```shell
-$ git clone https://github.com/kwzm/redux-todos.git
-$ cd redux-todos
+$ git clone https://github.com/kwzm/react-redux-todos.git
+$ cd react-redux-todos
 $ npm install
 $ npm start
 ```
